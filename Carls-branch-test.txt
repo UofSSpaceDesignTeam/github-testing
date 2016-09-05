@@ -1,1 +1,2 @@
 This is only visible in carls-branch
+Checking out master will hide this file somewhere else.
